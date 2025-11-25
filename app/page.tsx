@@ -1,6 +1,5 @@
 "use client"
 import { CountdownTimer } from "@/components/countdown-timer"
-import { EmailForm } from "@/components/email-form"
 import { Instagram } from "lucide-react"
 
 export default function Home() {
@@ -63,18 +62,6 @@ export default function Home() {
               {"⏳ Divulgação do PS em:"}
             </h2>
             <CountdownTimer targetDate={targetDate} />
-          </div>
-
-          <div className="max-w-xl mx-auto mb-16">
-            <div className="bg-[#232222] rounded-2xl p-8 md:p-10 shadow-2xl border-4 border-[#FFC600]">
-              <h2 className="text-2xl md:text-3xl font-bold text-[#FFC600] text-center mb-4">
-                {"Seja Notificado! 📧"}
-              </h2>
-              <p className="text-white/90 text-center mb-6">
-                {"Deixe seu e-mail e receba as novidades do Processo Seletivo em primeira mão!"}
-              </p>
-              <EmailForm />
-            </div>
           </div>
 
           <div className="text-center">
