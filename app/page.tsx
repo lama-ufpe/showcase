@@ -40,18 +40,22 @@ export default function Home() {
             <h2 className="text-2xl md:text-3xl font-bold text-[#232222] mb-6 text-center">{"Nossa Missão 🌟"}</h2>
             <div className="space-y-4 text-base md:text-lg text-[#232222]/90">
               <p className="leading-relaxed">
-                {"Uma liga acadêmica que une arte, tecnologia e sociedade para criar, experimentar e transformar."}
-              </p>
-              <p className="leading-relaxed">
-                {"Acreditamos na força do encontro entre saberes e na criatividade como motor de mudança."}
+                {
+                  "A LAMA nasce da diversidade, da inconformidade e da experimentação. Não nos limitamos a uma área: conectamos tecnologia, arte e comunidade para criar soluções disruptivas, éticas e com impacto real."
+                }
               </p>
               <p className="leading-relaxed">
                 {
-                  "Misturamos pesquisa, design e pensamento crítico para imaginar novos futuros (mais justos, diversos e humanos)."
+                  "Acreditamos que transformações significativas acontecem quando diferentes saberes se encontram — por isso, rompemos os limites da academia e construímos pontes entre universidades, territórios e comunidades."
+                }
+              </p>
+              <p className="leading-relaxed">
+                {
+                  "Partimos de um norte: Interação Humano-Computador (IHC) — para trazer sensibilidade e colocar pessoas no centro do projeto; Visualização de Dados — para transformar informação em impacto imediato e ação; Criatividade Computacional — para prototipar e escalar soluções grandes e ousadas. São pontos de partida, não limites."
                 }
               </p>
               <p className="leading-relaxed font-semibold text-[#B29EE7]">
-                {"Somos solo fértil onde ideias crescem, se chocam e florescem em possibilidades. 🌱"}
+                {"Somos solo fértil onde ideias se encontram, crescem e geram transformação. 🌱"}
               </p>
             </div>
           </div>
