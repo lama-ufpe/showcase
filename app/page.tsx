@@ -46,12 +46,12 @@ export default function Home() {
               </p>
               <p className="leading-relaxed">
                 {
-                  "Acreditamos que transformações significativas acontecem quando diferentes saberes se encontram — por isso, rompemos os limites da academia e construímos pontes entre universidades, territórios e comunidades."
+                  "Acreditamos que transformações significativas acontecem quando diferentes saberes se encontram. Por isso, rompemos os limites da academia e construímos pontes entre universidades, territórios e comunidades."
                 }
               </p>
               <p className="leading-relaxed">
                 {
-                  "Partimos de um norte: Interação Humano-Computador (IHC) — para trazer sensibilidade e colocar pessoas no centro do projeto; Visualização de Dados — para transformar informação em impacto imediato e ação; Criatividade Computacional — para prototipar e escalar soluções grandes e ousadas. São pontos de partida, não limites."
+                  "Partimos de um norte: Interação Humano-Computador (IHC), para trazer sensibilidade e colocar pessoas no centro do projeto; Visualização de Dados, para transformar informação em impacto imediato e ação; Criatividade Computacional, para prototipar e escalar soluções grandes e ousadas. São pontos de partida, não limites."
                 }
               </p>
               <p className="leading-relaxed font-semibold text-[#B29EE7]">
