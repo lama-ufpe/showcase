@@ -3,7 +3,7 @@ import { CountdownTimer } from "@/components/countdown-timer"
 import { Instagram } from "lucide-react"
 
 export default function Home() {
-  const targetDate = new Date("2026-01-28T00:00:00")
+  const targetDate = new Date("2026-02-23T00:00:00")
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-[#B29EE7] via-[#8B7BD8] to-[#C3FE4C] relative overflow-hidden">
